@@ -19,7 +19,5 @@
 #
 ---
 include:
-<<<<<<< HEAD
   - board: nice_nano
     shield: Nautilus
-=======
